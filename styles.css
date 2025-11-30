@@ -42,7 +42,7 @@ body
     border: 5px solid rgba(0, 0, 0, 0.142);
     background: rgba(74, 97, 69, 0.171);
     border-radius: 20px;
-    max-width: 33%;
+    width: 240px;
 }
 /* Box model */
 .container
